@@ -3,7 +3,7 @@ type: ProjectLayout
 title: One more cool project
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: Hari
 description: >-
   Sophie, you deserve a love that is deep, unwavering, and true—a love that
   makes you feel safe when the world is uncertain, that reminds you how
