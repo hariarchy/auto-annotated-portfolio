@@ -19,7 +19,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/IMG_6429.jpeg
   altText: Project image
 ---
 Sophie, from the very first day we met—our first date in the park, where I showed up late and probably looked like a complete mess—something inside me shifted. I remember feeling nervous, not just because I was late, but because something about you already felt important. And I was right. From that moment on, my life was never the same.
