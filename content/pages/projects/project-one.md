@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Without You, the World Would Feel Incomplete'
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Hari
 description: >-
   ophie, you are not just a part of my life—you are the thread that ties all the
   best moments together. Every memory, every laugh, every quiet conversation in
