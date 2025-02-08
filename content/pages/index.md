@@ -18,7 +18,7 @@ sections:
       year, and for every year of our lives?
     subtitle: >-
       Sophie, you are the most incredible person I’ve ever met. You light up
-      every room you walks into—not just with your beautiful smile, but with the
+      every room you walk into—not just with your beautiful smile, but with the
       warmth, kindness, and energy you carries so effortlessly. You have this
       amazing ability to make even the most ordinary moments feel special, and
       every day with you is an adventure I never want to end. You're my best
