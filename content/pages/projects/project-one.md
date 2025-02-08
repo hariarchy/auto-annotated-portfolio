@@ -8,13 +8,12 @@ description: >-
   Sophie, you are not just a part of my life—you are the thread that ties all
   the best moments together. Every memory, every laugh, every quiet conversation
   in the middle of the night, they all mean more because you are in them. I
-  can’t imagine my world without you, because the truth is, life before you
-  feels like a distant echo of something incomplete.Since the moment we met, you
-  have changed everything. You have brought warmth into spaces I didn’t even
-  realize were cold. The way you exist, the way you love, the way you just are,
-  has filled my life with a kind of depth and meaning I never knew was
-  possible.If you weren’t here, the days wouldn’t feel as bright, the nights
-  wouldn’t feel as comforting, and the quiet moments wouldn’t feel as full. 
+  can’t imagine my world without you.Since the moment we met, you have changed
+  everything. You have brought warmth into spaces I didn’t even realize were
+  cold. The way you exist, the way you love, the way you just are, has filled my
+  life with a kind of depth and meaning I never knew was possible.If you weren’t
+  here, the days wouldn’t feel as bright, the nights wouldn’t feel as
+  comforting, and the quiet moments wouldn’t feel as full. 
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
