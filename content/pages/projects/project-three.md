@@ -14,8 +14,7 @@ description: >-
   you in the big, obvious ways. I love you in the quiet moments, when you’re not
   looking, when you don’t even realize how breathtaking you are. I love you in
   the way my eyes search for you in a crowded room, in the way I instinctively
-  reach for your hand because that’s where it belongs. I love you in the moments
-  when you’re laughing, and in the moments when you’re quiet, lost in thought.
+  reach for your hand because that’s where it belongs. 
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
