@@ -5,9 +5,14 @@ colors: colors-a
 date: '2024-02-05'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Sophie, you’re not just someone special—you are the most important person in
+  my life. You make the world feel softer, kinder, and more beautiful just by
+  being in it. I could search the whole world and never find someone who makes
+  me feel the way you do. You bring warmth where there is cold, joy where there
+  is emptiness, and love where there is loneliness. Without you, my days
+  wouldn’t shine as brightly, and the quiet moments wouldn’t feel as full. You
+  are my home, my safe place, and my greatest gift. If you asked me to name one
+  thing I am truly grateful for in this life, the answer would always be you.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
