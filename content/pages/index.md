@@ -103,7 +103,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: 'No '
         altText: ''
         url: 'https://wa.me/+4407436953194?text=yes'
         showIcon: true
