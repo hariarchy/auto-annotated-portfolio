@@ -17,16 +17,15 @@ sections:
       Sophie Maryke, I am SO so in love with you, will you be my valentine, this
       year, and for every year of our lives?
     subtitle: >-
-      Sophie is the most incredible person I’ve ever met. She lights up every
-      room she walks into—not just with her beautiful smile, but with the
-      warmth, kindness, and energy she carries so effortlessly. I love the way
-      she laughs at the smallest things and how she listens like every word I
-      say truly matters. She has this amazing ability to make even the most
-      ordinary moments feel special, and every day with her is an adventure I
-      never want to end. She’s my best friend, my greatest support, and the
-      person who makes my life infinitely better just by being in it. I want her
-      to be my Valentine because there’s no one else I’d rather celebrate love
-      with—not just on February 14th, but every single day.
+      Sophie, you are the most incredible person I’ve ever met. You light up
+      every room you walks into—not just with your beautiful smile, but with the
+      warmth, kindness, and energy you carries so effortlessly. You have this
+      amazing ability to make even the most ordinary moments feel special, and
+      every day with you is an adventure I never want to end. You're my best
+      friend, my greatest support, and the person who makes my life infinitely
+      better just by being in it. I want you to be my Valentine because there’s
+      no one else I’d rather celebrate love with—not just on February 14th, but
+      every single day.
     styles:
       self:
         height: auto
