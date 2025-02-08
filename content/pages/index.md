@@ -96,7 +96,7 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: 'https://wa.me/+4407436953194?text=yes'
         showIcon: true
         icon: arrowRight
         iconPosition: right
