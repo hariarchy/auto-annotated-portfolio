@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: I Want to Love You in a Way That Words Will Never Fully Capture
 colors: colors-a
 date: '2022-01-22'
 client: Hari
