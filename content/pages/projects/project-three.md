@@ -16,7 +16,7 @@ description: >-
   belongs. 
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/IMG_5121.jpeg
   altText: Project image
 featuredImage:
   type: ImageBlock
