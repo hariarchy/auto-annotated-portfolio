@@ -94,7 +94,7 @@ sections:
       So, Sophie Maryke, what will your answer be?
     actions:
       - type: Button
-        label: Try it now
+        label: YES!
         altText: ''
         url: 'https://wa.me/+4407436953194?text=yes'
         showIcon: true
