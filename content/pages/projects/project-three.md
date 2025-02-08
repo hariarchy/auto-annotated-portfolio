@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: I Love You in a Way That Words Will Never Capture
 colors: colors-a
-date: '2022-02-05'
+date: '2024-02-05'
 client: Hari
 description: >-
   Sophie, you deserve a love that is deep, unwavering, and true—a love that
