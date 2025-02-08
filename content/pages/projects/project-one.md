@@ -16,7 +16,7 @@ description: >-
   comforting.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/IMG_7522.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
