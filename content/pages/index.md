@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Sophie Maryke, I am horribly in love with you'
+    title: >-
+      Sophie Maryke, I am SO so in love with you, and want to ask you to be my
+      valentine, this year, and for every year of our lives.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
