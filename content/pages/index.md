@@ -19,7 +19,7 @@ sections:
     subtitle: >-
       Sophie, you are the most incredible person I’ve ever met. You light up
       every room you walk into—not just with your beautiful smile, but with the
-      warmth, kindness, and energy you carries so effortlessly. You have this
+      warmth, kindness, and energy you carry so effortlessly. You have this
       amazing ability to make even the most ordinary moments feel special, and
       every day with you is an adventure I never want to end. You're my best
       friend, my greatest support, and the person who makes my life infinitely
