@@ -89,7 +89,7 @@ sections:
         justifyContent: flex-end
     subtitle: 'Reasons you should say yes:'
   - type: CtaSection
-    title: Let's do this
+    title: 'So, what will it be?'
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
