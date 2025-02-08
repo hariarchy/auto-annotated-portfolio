@@ -3,7 +3,7 @@ type: ProjectLayout
 title: You Are Best Thing That’s Ever Happened to Me
 colors: colors-a
 date: '2024-02-05'
-client: Awesome client
+client: Hari
 description: >-
   Sophie, you’re not just someone special—you are the most important person in
   my life. You make the world feel softer, kinder, and more beautiful just by
