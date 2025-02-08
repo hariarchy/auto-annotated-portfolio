@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Without You, the World Would Feel Incomplete'
 colors: colors-a
-date: '2021-10-09'
+date: '2021-02-09'
 client: Hari
 description: >-
   ophie, you are not just a part of my life—you are the thread that ties all the
