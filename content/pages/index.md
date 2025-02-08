@@ -105,7 +105,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /
+        url: 'https://wa.me/+4407436953194?text=yes'
         showIcon: true
         icon: arrowRight
         iconPosition: right
