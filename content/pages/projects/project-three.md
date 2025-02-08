@@ -14,10 +14,6 @@ description: >-
   looking, when you don’t even realize how breathtaking you are. I love you in
   the in the way I instinctively reach for your hand because that’s where it
   belongs. 
-featuredImage:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg3.jpg
