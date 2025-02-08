@@ -5,9 +5,19 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  ophie, you are not just a part of my life—you are the thread that ties all the
+  best moments together. Every memory, every laugh, every quiet conversation in
+  the middle of the night, they all mean more because you are in them. I can’t
+  imagine my world without you, because the truth is, life before you feels like
+  a distant echo of something incomplete.Since the moment we met, you have
+  changed everything. You have brought warmth into spaces I didn’t even realize
+  were cold. You have made the simplest moments—like a walk in the park or a
+  shared glance—feel profound. The way you exist, the way you love, the way you
+  just are, has filled my life with a kind of depth and meaning I never knew was
+  possible.If you weren’t here, the days wouldn’t feel as bright, the nights
+  wouldn’t feel as comforting, and the quiet moments wouldn’t feel as full. Life
+  without you isn’t just a life without love—it’s a life without the sense of
+  home that I’ve found in you.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
