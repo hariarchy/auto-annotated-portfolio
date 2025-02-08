@@ -7,8 +7,7 @@ client: Hari
 description: >-
   Sophie, you deserve a love that is deep, unwavering, and true—a love that
   makes you feel safe when the world is uncertain, that reminds you how
-  extraordinary you are, even on the days you might forget. And more than
-  anything, I want to be the person who gives you that love.But the truth is,
+  extraordinary you are, even on the days you might forget. But the truth is,
   loving you isn’t something I have to try to do—it’s something that happens
   naturally, effortlessly, in every moment I spend with you. I don’t just love
   you in the big, obvious ways. I love you in the quiet moments, when you’re not
