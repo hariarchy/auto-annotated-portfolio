@@ -1,11 +1,18 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: You Are Best Thing That’s Ever Happened to Me
 colors: colors-a
-date: '2021-12-20'
-client: Awesome client
+date: '2024-02-05'
+client: Hari
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Sophie, you’re not just someone special—you are the most important person in
+  my life. You make the world feel softer, kinder, and more beautiful just by
+  being in it. I could search the whole world and never find someone who makes
+  me feel the way you do. You bring warmth where there is cold, joy where there
+  is emptiness, and love where there is loneliness. Without you, my days
+  wouldn’t shine as brightly, and the quiet moments wouldn’t feel as full. You
+  are my home, my safe place, and my greatest gift. If you asked me to name one
+  thing I am truly grateful for in this life, the answer would always be you.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
@@ -15,15 +22,10 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 ---
+Sophie, from the very first day we met—our first date in the park, where I showed up late and probably looked like a complete mess—something inside me shifted. I remember feeling nervous, not just because I was late, but because something about you already felt important. And I was right. From that moment on, my life was never the same.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+I don’t think I realized it at the time, but looking back, I can see how that day was the beginning of everything. The way you smiled at me, the way you made me feel like being a few minutes late didn’t matter—like I was exactly where I was supposed to be—stuck with me. And from that day forward, I’ve had this constant, undeniable pull toward you. A need to have you in my life in any way I can.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+You make everything feel different. The days are brighter because I know I get to share them with you. The quiet moments feel fuller because I know you’re a part of them, even when we’re not in the same place. You bring warmth where there used to be cold, joy where there used to be routine, and love where there used to be something I didn’t even know was missing. You have become my greatest motivation—the person who makes me want to be better, to do more, to be someone worthy of the love you so effortlessly give.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
-
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Every moment with you, no matter how small, is something I carry with me. From that first date in the park to now, I’ve never stopped wanting you in my life. And the truth is, I never will. You are my home, my safe place, my greatest gift. If you asked me to name one thing I am truly grateful for in this life, the answer would always, always be you.
