@@ -18,6 +18,12 @@ media:
   type: ImageBlock
   url: /images/bg3.jpg
   altText: Project image
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 Sophie, you are not just a part of my life—you are the thread that ties all the best moments together. Every memory, every laugh, every quiet conversation in the middle of the night, they all mean more because you are in them. Life before you feels like a faded, incomplete version of what it was meant to be, and now that I have you, I can’t imagine a world without you in it.
 
